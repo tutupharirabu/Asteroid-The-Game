@@ -89,10 +89,6 @@ python main.py
 - Implement a high score system
 - Add different enemy types
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - Inspired by the classic Asteroids arcade game
