@@ -30,8 +30,8 @@ In Asteroid: The Game, you pilot a triangular ship through space, avoiding and s
 
 1. Clone this repository:
    ```
-   https://github.com/tutupharirabu/Asteroid-The-Game.git
-   cd Asteroid-The-Game
+   https://github.com/tutupharirabu/asteroid-the-game.git
+   cd asteroid-the-game
    ```
 
 2. Create a virtual environment (optional but recommended):
